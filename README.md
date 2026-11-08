@@ -144,17 +144,3 @@ navibodega-pro/
 
 ---
 
-## 📤 ¿Cómo Compartir el Proyecto a Otra Persona?
-
-Para compartir este proyecto con un compañero, profesor o cliente:
-
-1. **Comprime la carpeta `navibodega-pro` en un archivo `.zip`**:
-   - También dispones del archivo ya comprimido `navibodega-pro.zip`.
-2. **La persona que lo reciba solo necesita**:
-   - Descomprimir el archivo zip.
-   - Hacer doble clic en `iniciar.bat` (en Windows) o escribir `node server.js` en su terminal.
-   - ¡No tiene que ejecutar instalaciones complejas ni configurar bases de datos! La base de datos SQLite se crea y se autogestiona sola.
-
----
-
-© 2026 Bodega Marítima "El Puerto" & NaviBodega Pro. Todos los derechos reservados.
